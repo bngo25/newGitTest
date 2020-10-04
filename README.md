@@ -1,2 +1,3 @@
 # newGitTest
 test
+new folder
